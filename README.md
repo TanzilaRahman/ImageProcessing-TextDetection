@@ -11,4 +11,4 @@ This repository contains a text detection system implemented with TensorFlow Lit
 ##DEMO:
 The text detection system was able to successfully detect text from the following images: 
 ![textDetected-img1](https://github.com/TanzilaRahman/TextDetection/assets/110073037/8a20fcac-8fa8-4270-8071-b376911ea009)
-![textDetected](https://github.com/TanzilaRahman/TextDetection/assets/110073037/eda0cd2b-e646-46fd-9c9f-5d0c603bbde9)
+
