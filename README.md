@@ -1,4 +1,4 @@
-# ImageProcessing-TextDetection
+# TextDetection 
 
 This repository contains a text detection system implemented with TensorFlow Lite. The system can automatically detect text in images. It utilizes the Efficient and Accurate Scene Text Detector (EAST) algorithm for text detection. The provided code offers features such as:
 
