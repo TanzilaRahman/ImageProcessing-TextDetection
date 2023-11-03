@@ -9,7 +9,8 @@ This repository contains a text detection system implemented with TensorFlow Lit
 - Post-processing the results to draw bounding boxes around detected text.
 
 ## DEMO:
-The text detection system was able to successfully detect text from the following images: 
+The following images are examples showcasing that the text detection system was able to successfully detect text (indicated by green rectangles): 
+
 ![textDetected-img1](https://github.com/TanzilaRahman/TextDetection/assets/110073037/8a20fcac-8fa8-4270-8071-b376911ea009)
 
 ![textDetected](https://github.com/TanzilaRahman/TextDetection/assets/110073037/c63357ce-3706-4e98-90a5-15bae00909f8)
